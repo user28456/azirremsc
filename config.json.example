@@ -1,0 +1,10 @@
+{
+  
+  "YOUTUBE_API_KEY": "AIzaSyBRCGCLji5nIhp-3t7B0pMEW2_o-K1Dfjk",
+  "MAX_PLAYLIST_SIZE": 10,
+  "PREFIX": "a!",
+  "PRUNING": false,
+  "LOCALE": "tr",
+  "STAY_TIME": 30,
+  "DEFAULT_VOLUME": 100
+}
